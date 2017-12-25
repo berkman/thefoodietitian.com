@@ -12,6 +12,8 @@ These are a few things that I love…
 3. Eating roasted vegetables
 4. Combining my top 3 favorite things
 
+<!--more-->
+
 If you have the pleasure of following me on Snapchat or my Instagram stories, you may have noticed by now that I get way more entertainment than I should out of blasting some R&B/Hip Hop in my kitchen while I experiment with new recipes. And apparently I’m not alone (#mealtime anyone? I think 2 Chainz is my idol…).
 
 While listening to some G-Easy “No Limit,” I was thinking about my favorite holiday (Thanksgiving – I’m a foodie, duh.) and how to incorporate some more veggies than we’re used to eating at this meal (yes, a foodie, but also an RD.. it’s a blessing and a curse). I tried a Brussels sprout and bacon recipe last year that completely failed, but I wasn’t ready to give up on this cruciferous beauty just yet.

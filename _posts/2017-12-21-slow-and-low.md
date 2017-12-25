@@ -9,6 +9,8 @@ Crock pot season begins mid-to-late October and ends never. I’m guessing that 
 
 Time for some foodietitian food science! 🤓
 
+<!--more-->
+
 Why do we love the slow cooker? It makes our meats both tender and juicy at the same time, it “cooks all day while the cook’s away,” and you can make a variety of foods – from beans to soups to pastas to bread!
 
 A slow cooker has a few parts. 1 – the ceramic or porcelain bowl, which distributes heat evenly, 2- the heating unit, which surrounds the bowl and heats from the bottom and the sides, and 3- a glass lid to keep heat contained inside the bowl.

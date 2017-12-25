@@ -37,6 +37,8 @@ minima:
 
 permalink: /:year/:month/:day/:title
 
+excerpt_separator: <!--more-->
+
 # Build settings
 markdown: kramdown
 theme: minima
