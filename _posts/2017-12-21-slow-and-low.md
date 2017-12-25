@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Slow and Low"
-date:   2017-12-21 10:08:34 -0500
 categories: food
 ---
 ![Slow and Low]({{ "https://thefoodietitian.files.wordpress.com/2017/12/img_6042.jpg" | absolute_url }})

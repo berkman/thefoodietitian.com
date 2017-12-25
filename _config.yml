@@ -18,11 +18,17 @@ title: The Foodietitian
 email: berkman.susan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Foodie. Dietitian. Where the fusion of flavor and nutrition meet to promote sustainable health.
-baseurl: "thefoodietitian.com" # the subpath of your site, e.g. /blog
+baseurl: "/thefoodietitian.com" # the subpath of your site, e.g. /blog
 url: https://thefoodietitian.com # the base hostname & protocol for your site, e.g. http://example.com
 pinterest_username: foodietitian
 instagram_username:  thefoodietitian
 linkedin_username: susanberkman
+
+
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:name
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

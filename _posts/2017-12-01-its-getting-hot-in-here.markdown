@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "It’s getting hot in here…"
-date:   2017-12-01 10:08:34 -0500
 categories: food
 ---
-Screen Shot 2017-11-30 at 8.34.03 PM
+![Getting hot in here]({{ "/assets/getting-hot-in-here.png" | absolute_url }})
 
 These are a few things that I love…
 
