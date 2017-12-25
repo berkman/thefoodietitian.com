@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "It’s getting hot in here…"
+title:  It’s getting hot in here…
 categories: food
 ---
-![Getting hot in here]({{ "/assets/getting-hot-in-here.png" | absolute_url }})
+![{{ page.title }}]({{ "/assets/getting-hot-in-here.png" | absolute_url }})
 
 These are a few things that I love…
 

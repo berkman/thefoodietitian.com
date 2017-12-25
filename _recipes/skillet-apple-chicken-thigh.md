@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Seared Steak Salad
-image: http://bit.ly/2DberJL
+title: Skillet Apple Chicken Thigh
+image: http://bit.ly/2DaANuD
 ---
 
 ![{{ page.title }}]({{ page.image }})

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Winner Winner Chicken Dinner"
+title:  Winner Winner Chicken Dinner
 categories: chicken
 ---
-![Chicken Dinner]({{ "/assets/chicken-dinner.jpg" | absolute_url }})
+![{{ page.title }}]({{ "/assets/chicken-dinner.jpg" | absolute_url }})
 
 Do you crave certain foods in certain seasons? Like the Spring makes me want light, fresh salads and the Summer always makes me want refreshing melon and the Fall makes me want pumpkin everything and the Winter makes me want hearty stews. I think ice cream is the only exception for me, which I could eat in literally any weather. 80 degrees with 75% humidity? Oh, you know I’m hitting up the Jeni’s down the street. Polar Vortex? Gimme some Ben and Jerry’s and a cuddly blanket. Maybe that makes me a psychopath, but I’m willing to accept it… ANYWAYS, I digress.
 

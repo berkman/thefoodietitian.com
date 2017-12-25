@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Seared Steak Salad
-image: http://bit.ly/2DberJL
+title: Beet Smoothy
+image: http://bit.ly/2C1l4in
 ---
 
 ![{{ page.title }}]({{ page.image }})

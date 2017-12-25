@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Seared Steak Salad
-image: http://bit.ly/2DberJL
+title: Lemon Chicken Orzo Soup
+image: http://bit.ly/2C5hiVe
 ---
 
 ![{{ page.title }}]({{ page.image }})

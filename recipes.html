@@ -1,0 +1,11 @@
+---
+layout: page
+title: Recipes
+permalink: /recipes/
+---
+
+{% for item in site.recipes %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url | absolute_url }}"><img src="{{ item.image }}" width=200px /></a></p>
+{% endfor %}

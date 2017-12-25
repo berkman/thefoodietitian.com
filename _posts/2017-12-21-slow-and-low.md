@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Slow and Low"
+title:  Slow and Low
 categories: food
 ---
-![Slow and Low]({{ "https://thefoodietitian.files.wordpress.com/2017/12/img_6042.jpg" | absolute_url }})
+![{{ page.title }}]({{ "https://thefoodietitian.files.wordpress.com/2017/12/img_6042.jpg" | absolute_url }})
 
 Crock pot season begins mid-to-late October and ends never. I’m guessing that this beautiful kitchen appliance isn’t new to most of you, even if you are more of a novice cook. According to the Huffington Post, in 2011, 83% of families owned a slow cooker. That’s incredible! Maybe the Crock Pot should run for office, because it seems like it’s the one thing Americans can agree on (Too political? Is this not the right outlet? You’re saying I should stick to food?? Bueller? Bueller? Ok, back to business).
 
@@ -35,6 +35,4 @@ Ciao, 😘
 
 Susan
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=thefoodietiti-20&marketplace=amazon&region=US&placement=B01DISPQJ0&asins=B01DISPQJ0&linkId=79ee85417832daf6ff7e363f6848ebb1&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
